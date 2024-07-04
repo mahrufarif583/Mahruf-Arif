@@ -113,6 +113,7 @@
     
 }
 .cv-button, .sign{
+    text-decoration: none;
     color: blue;
     background-color:white;
     padding-left: 0.5rem;
